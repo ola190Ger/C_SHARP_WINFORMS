@@ -1,0 +1,11 @@
+C:\Users\group-bbv182\source\repos\Угадай число\Угадай число\obj\Debug\Угадай число.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\Угадай число\Угадай число\obj\Debug\Угадай_число.Form1.resources
+C:\Users\group-bbv182\source\repos\Угадай число\Угадай число\obj\Debug\Угадай_число.Form2.resources
+C:\Users\group-bbv182\source\repos\Угадай число\Угадай число\obj\Debug\Угадай_число.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\Угадай число\Угадай число\obj\Debug\Угадай число.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\Угадай число\Угадай число\obj\Debug\Угадай число.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\source\repos\Угадай число\Угадай число\bin\Debug\Угадай число.exe.config
+C:\Users\group-bbv182\source\repos\Угадай число\Угадай число\bin\Debug\Угадай число.exe
+C:\Users\group-bbv182\source\repos\Угадай число\Угадай число\bin\Debug\Угадай число.pdb
+C:\Users\group-bbv182\source\repos\Угадай число\Угадай число\obj\Debug\Угадай число.exe
+C:\Users\group-bbv182\source\repos\Угадай число\Угадай число\obj\Debug\Угадай число.pdb
