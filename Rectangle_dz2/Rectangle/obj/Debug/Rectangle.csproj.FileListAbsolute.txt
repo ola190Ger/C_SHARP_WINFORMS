@@ -1,0 +1,10 @@
+C:\Users\group-bbv182\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\Rectangle\Rectangle\obj\Debug\RectangleIn.Form1.resources
+C:\Users\group-bbv182\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\group-bbv182\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\group-bbv182\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\group-bbv182\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\group-bbv182\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
