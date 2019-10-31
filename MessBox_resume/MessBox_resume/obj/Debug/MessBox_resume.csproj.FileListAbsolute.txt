@@ -1,0 +1,10 @@
+C:\Users\group-bbv182\source\repos\MessBox_resume\MessBox_resume\bin\Debug\MessBox_resume.exe.config
+C:\Users\group-bbv182\source\repos\MessBox_resume\MessBox_resume\bin\Debug\MessBox_resume.exe
+C:\Users\group-bbv182\source\repos\MessBox_resume\MessBox_resume\bin\Debug\MessBox_resume.pdb
+C:\Users\group-bbv182\source\repos\MessBox_resume\MessBox_resume\obj\Debug\MessBox_resume.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\MessBox_resume\MessBox_resume\obj\Debug\MessBox_resume.Form1.resources
+C:\Users\group-bbv182\source\repos\MessBox_resume\MessBox_resume\obj\Debug\MessBox_resume.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\MessBox_resume\MessBox_resume\obj\Debug\MessBox_resume.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\MessBox_resume\MessBox_resume\obj\Debug\MessBox_resume.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\source\repos\MessBox_resume\MessBox_resume\obj\Debug\MessBox_resume.exe
+C:\Users\group-bbv182\source\repos\MessBox_resume\MessBox_resume\obj\Debug\MessBox_resume.pdb
