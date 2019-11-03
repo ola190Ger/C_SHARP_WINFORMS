@@ -1,0 +1,11 @@
+C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\bin\Debug\dz3_2_поиск файлов.exe.config
+C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\bin\Debug\dz3_2_поиск файлов.exe
+C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\bin\Debug\dz3_2_поиск файлов.pdb
+C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск файлов.csprojAssemblyReference.cache
+C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск_файлов.Form1.resources
+C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск_файлов.Form2.resources
+C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск_файлов.Properties.Resources.resources
+C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск файлов.csproj.GenerateResource.cache
+C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск файлов.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск файлов.exe
+C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск файлов.pdb
