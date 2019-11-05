@@ -1,0 +1,11 @@
+C:\Users\group-bbv182\source\repos\dz3_3_SalePc\dz3_3_SalePc\bin\Debug\dz3_3_SalePc.exe.config
+C:\Users\group-bbv182\source\repos\dz3_3_SalePc\dz3_3_SalePc\bin\Debug\dz3_3_SalePc.exe
+C:\Users\group-bbv182\source\repos\dz3_3_SalePc\dz3_3_SalePc\bin\Debug\dz3_3_SalePc.pdb
+C:\Users\group-bbv182\source\repos\dz3_3_SalePc\dz3_3_SalePc\obj\Debug\dz3_3_SalePc.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\dz3_3_SalePc\dz3_3_SalePc\obj\Debug\dz3_3_SalePc.Form1.resources
+C:\Users\group-bbv182\source\repos\dz3_3_SalePc\dz3_3_SalePc\obj\Debug\dz3_3_SalePc.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\dz3_3_SalePc\dz3_3_SalePc\obj\Debug\dz3_3_SalePc.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\dz3_3_SalePc\dz3_3_SalePc\obj\Debug\dz3_3_SalePc.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\source\repos\dz3_3_SalePc\dz3_3_SalePc\obj\Debug\dz3_3_SalePc.exe
+C:\Users\group-bbv182\source\repos\dz3_3_SalePc\dz3_3_SalePc\obj\Debug\dz3_3_SalePc.pdb
+C:\Users\group-bbv182\source\repos\dz3_3_SalePc\dz3_3_SalePc\obj\Debug\dz3_3_SalePc.Form2.resources
