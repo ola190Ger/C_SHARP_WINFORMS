@@ -9,3 +9,14 @@ C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск фай
 C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск файлов.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск файлов.exe
 C:\Users\Dell\Source\Repos\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск файлов.pdb
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_2_поиск файлов\dz3_2_поиск файлов\bin\Debug\dz3_2_поиск файлов.exe.config
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_2_поиск файлов\dz3_2_поиск файлов\bin\Debug\dz3_2_поиск файлов.exe
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_2_поиск файлов\dz3_2_поиск файлов\bin\Debug\dz3_2_поиск файлов.pdb
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск файлов.csprojAssemblyReference.cache
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск_файлов.Form1.resources
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск_файлов.Form2.resources
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск_файлов.Properties.Resources.resources
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск файлов.csproj.GenerateResource.cache
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск файлов.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск файлов.exe
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_2_поиск файлов\dz3_2_поиск файлов\obj\Debug\dz3_2_поиск файлов.pdb

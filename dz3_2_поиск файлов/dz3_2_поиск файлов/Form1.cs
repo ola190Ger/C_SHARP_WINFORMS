@@ -27,5 +27,10 @@ namespace dz3_2_поиск_файлов
             Form2 searchForm = new Form2(this);
             searchForm.Show();
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

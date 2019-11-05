@@ -51,15 +51,26 @@ namespace dz3_2_поиск_файлов
 
         private void Button2_Click(object sender, EventArgs e)
         {
-            
 
+           
             foreach (string str in files)
             {
-               
+               if(str.IndexOf(textBox1.Text)!=-1)
                     listBox1.Items.Add(Path.GetFileName(str));
             }
             if (listBox1.Items.Count == 0)
                 listBox1.Items.Add($"{label1.Text}_{textBox1.Text} ничего не найдено");
+        }
+
+        private void TextBox1_MouseDown(object sender, MouseEventArgs e)
+        {
+            textBox1.Text = "";
+        }
+
+
+        private void Button4_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }
