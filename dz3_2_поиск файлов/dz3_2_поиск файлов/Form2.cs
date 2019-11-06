@@ -14,7 +14,6 @@ namespace dz3_2_поиск_файлов
     public partial class Form2 : Form
     {
         string[] files;
-        string[] filesName;
         public Form2()
         {
             InitializeComponent();
@@ -40,22 +39,19 @@ namespace dz3_2_поиск_файлов
             {
                 label1.Text = folderBrowser.SelectedPath;
                 files = Directory.GetFiles(folderBrowser.SelectedPath);
-
-                /*
-                for(int i=0; i<files.Length; i++)
-                    filesName[i]=Path.GetFileName(files[i]);
-                    */
-                //listBox1.Items.AddRange(filesName);
+                textBox1.Text = "";
             }
         }
 
         private void Button2_Click(object sender, EventArgs e)
         {
+            if (textBox1.Text == "")
+                listBox1.Items.AddRange(files);
+            string searchstr = string.Join("", textBox1.Text.Where(c => char.IsLetterOrDigit(c)));
 
-           
             foreach (string str in files)
             {
-               if(str.IndexOf(textBox1.Text)!=-1)
+               if(str.IndexOf(searchstr)!=-1)
                     listBox1.Items.Add(Path.GetFileName(str));
             }
             if (listBox1.Items.Count == 0)
@@ -65,6 +61,7 @@ namespace dz3_2_поиск_файлов
         private void TextBox1_MouseDown(object sender, MouseEventArgs e)
         {
             textBox1.Text = "";
+            textBox1.ForeColor = Color.Black;
         }
 
 
