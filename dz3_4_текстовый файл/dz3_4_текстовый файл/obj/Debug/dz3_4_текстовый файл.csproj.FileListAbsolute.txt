@@ -1,0 +1,21 @@
+C:\Users\Dell\Source\Repos\dz3_4_текстовый файл\dz3_4_текстовый файл\bin\Debug\dz3_4_текстовый файл.exe.config
+C:\Users\Dell\Source\Repos\dz3_4_текстовый файл\dz3_4_текстовый файл\bin\Debug\dz3_4_текстовый файл.exe
+C:\Users\Dell\Source\Repos\dz3_4_текстовый файл\dz3_4_текстовый файл\bin\Debug\dz3_4_текстовый файл.pdb
+C:\Users\Dell\Source\Repos\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый файл.csprojAssemblyReference.cache
+C:\Users\Dell\Source\Repos\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый_файл.Form1.resources
+C:\Users\Dell\Source\Repos\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый_файл.Properties.Resources.resources
+C:\Users\Dell\Source\Repos\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый файл.csproj.GenerateResource.cache
+C:\Users\Dell\Source\Repos\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый файл.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый файл.exe
+C:\Users\Dell\Source\Repos\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый файл.pdb
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_4_текстовый файл\dz3_4_текстовый файл\bin\Debug\dz3_4_текстовый файл.exe.config
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_4_текстовый файл\dz3_4_текстовый файл\bin\Debug\dz3_4_текстовый файл.exe
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_4_текстовый файл\dz3_4_текстовый файл\bin\Debug\dz3_4_текстовый файл.pdb
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый файл.csprojAssemblyReference.cache
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый_файл.Form1.resources
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый_файл.Form2.resources
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый_файл.Properties.Resources.resources
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый файл.csproj.GenerateResource.cache
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый файл.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый файл.exe
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_4_текстовый файл\dz3_4_текстовый файл\obj\Debug\dz3_4_текстовый файл.pdb
