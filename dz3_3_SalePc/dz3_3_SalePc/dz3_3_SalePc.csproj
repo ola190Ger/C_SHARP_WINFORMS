@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A2B929E1-5553-4266-8525-F871B9631D7D}</ProjectGuid>
+    <ProjectGuid>{2AF03B3C-639E-472C-83A0-64E5576DAA94}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>dz3_3_SalePc</RootNamespace>
     <AssemblyName>dz3_3_SalePc</AssemblyName>
@@ -62,9 +62,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
