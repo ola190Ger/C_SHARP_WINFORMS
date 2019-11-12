@@ -18,3 +18,13 @@ C:\GITHUB\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_те�
 C:\GITHUB\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_текстовый редактор\obj\Debug\dz3_5_текстовый редактор.csproj.CoreCompileInputs.cache
 C:\GITHUB\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_текстовый редактор\obj\Debug\dz3_5_текстовый редактор.exe
 C:\GITHUB\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_текстовый редактор\obj\Debug\dz3_5_текстовый редактор.pdb
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_текстовый редактор\bin\Debug\dz3_5_текстовый редактор.exe.config
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_текстовый редактор\bin\Debug\dz3_5_текстовый редактор.exe
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_текстовый редактор\bin\Debug\dz3_5_текстовый редактор.pdb
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_текстовый редактор\obj\Debug\dz3_5_текстовый редактор.csprojAssemblyReference.cache
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_текстовый редактор\obj\Debug\dz3_5_текстовый_редактор.Form1.resources
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_текстовый редактор\obj\Debug\dz3_5_текстовый_редактор.Properties.Resources.resources
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_текстовый редактор\obj\Debug\dz3_5_текстовый редактор.csproj.GenerateResource.cache
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_текстовый редактор\obj\Debug\dz3_5_текстовый редактор.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_текстовый редактор\obj\Debug\dz3_5_текстовый редактор.exe
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_5_текстовый редактор\dz3_5_текстовый редактор\obj\Debug\dz3_5_текстовый редактор.pdb
