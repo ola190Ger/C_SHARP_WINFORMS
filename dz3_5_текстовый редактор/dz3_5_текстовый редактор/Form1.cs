@@ -77,12 +77,9 @@ namespace dz3_5_текстовый_редактор
             {
                 DialogResult rez = MessageBox.Show("Сохранить данные?", "", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 if (rez == DialogResult.Yes)
-                {
                     SaveTxt();
-                }
             }
             textBox1.Text = "";
-
         }
 
         private void ToolStripButton1_Click(object sender, EventArgs e)
@@ -93,16 +90,6 @@ namespace dz3_5_текстовый_редактор
         private void ВыделитьВсеToolStripMenuItem_Click(object sender, EventArgs e)
         {
             textBox1.SelectAll();
-        }
-
-        private void TextBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void TextBox1_MouseDown(object sender, MouseEventArgs e)
-        {
-            //textBox1.Select();
         }
 
         private void ToolStripButton4_Click(object sender, EventArgs e)
@@ -149,38 +136,28 @@ namespace dz3_5_текстовый_редактор
         {
             FontDialog fd = new FontDialog();
             if(fd.ShowDialog()==DialogResult.OK)
-            {
                 textBox1.Font = fd.Font;
-            }
         }
 
         private void ШрифтToolStripMenuItem_Click(object sender, EventArgs e)
         {
             FontDialog fd = new FontDialog();
             if (fd.ShowDialog() == DialogResult.OK)
-            {
                 textBox1.Font = fd.Font;
-            }
-
         }
 
         private void ЦветФонаToolStripMenuItem2_Click(object sender, EventArgs e)
         {
             ColorDialog fd = new ColorDialog();
             if (fd.ShowDialog() == DialogResult.OK)
-            {
                 textBox1.BackColor = fd.Color;
-            }
-
         }
 
         private void ЦветФонаToolStripMenuItem_Click(object sender, EventArgs e)
         {
             ColorDialog fd = new ColorDialog();
             if (fd.ShowDialog() == DialogResult.OK)
-            {
                 textBox1.BackColor = fd.Color;
-            }
 
         }
 
@@ -188,9 +165,7 @@ namespace dz3_5_текстовый_редактор
         {
             ColorDialog fd = new ColorDialog();
             if (fd.ShowDialog() == DialogResult.OK)
-            {
                 textBox1.ForeColor = fd.Color;
-            }
 
         }
 
@@ -198,12 +173,17 @@ namespace dz3_5_текстовый_редактор
         {
             ColorDialog fd = new ColorDialog();
             if (fd.ShowDialog() == DialogResult.OK)
-            {
-                
                 textBox1.ForeColor = fd.Color;
-            }
-
         }
 
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if(textBox1.Text.Length>0)
+            {
+                DialogResult rez = MessageBox.Show("Сохранить данные?", "", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (rez == DialogResult.Yes)
+                    SaveTxt();
+            }
+        }
     }
 }

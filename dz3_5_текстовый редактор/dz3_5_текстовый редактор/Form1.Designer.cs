@@ -167,7 +167,7 @@
             // 
             this.toolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripMenuItem1.Image")));
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(199, 42);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(148, 22);
             this.toolStripMenuItem1.Text = "Цвет шрифта";
             this.toolStripMenuItem1.Click += new System.EventHandler(this.ToolStripMenuItem1_Click);
             // 
@@ -175,7 +175,7 @@
             // 
             this.цветФонаToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("цветФонаToolStripMenuItem.Image")));
             this.цветФонаToolStripMenuItem.Name = "цветФонаToolStripMenuItem";
-            this.цветФонаToolStripMenuItem.Size = new System.Drawing.Size(199, 42);
+            this.цветФонаToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
             this.цветФонаToolStripMenuItem.Text = "Цвет фона";
             this.цветФонаToolStripMenuItem.Click += new System.EventHandler(this.ЦветФонаToolStripMenuItem_Click);
             // 
@@ -183,7 +183,7 @@
             // 
             this.шрифтToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("шрифтToolStripMenuItem.Image")));
             this.шрифтToolStripMenuItem.Name = "шрифтToolStripMenuItem";
-            this.шрифтToolStripMenuItem.Size = new System.Drawing.Size(199, 42);
+            this.шрифтToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
             this.шрифтToolStripMenuItem.Text = "Шрифт";
             this.шрифтToolStripMenuItem.Click += new System.EventHandler(this.ШрифтToolStripMenuItem_Click);
             // 
@@ -253,28 +253,28 @@
             // отменитьToolStripMenuItem
             // 
             this.отменитьToolStripMenuItem.Name = "отменитьToolStripMenuItem";
-            this.отменитьToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.отменитьToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
             this.отменитьToolStripMenuItem.Text = "Отменить";
             this.отменитьToolStripMenuItem.Click += new System.EventHandler(this.ОтменитьToolStripMenuItem_Click);
             // 
             // копироватьToolStripMenuItem
             // 
             this.копироватьToolStripMenuItem.Name = "копироватьToolStripMenuItem";
-            this.копироватьToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.копироватьToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
             this.копироватьToolStripMenuItem.Text = "Копировать";
             this.копироватьToolStripMenuItem.Click += new System.EventHandler(this.КопироватьToolStripMenuItem_Click);
             // 
             // вырезатьToolStripMenuItem
             // 
             this.вырезатьToolStripMenuItem.Name = "вырезатьToolStripMenuItem";
-            this.вырезатьToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.вырезатьToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
             this.вырезатьToolStripMenuItem.Text = "Вырезать";
             this.вырезатьToolStripMenuItem.Click += new System.EventHandler(this.ВырезатьToolStripMenuItem_Click);
             // 
             // вставитьToolStripMenuItem
             // 
             this.вставитьToolStripMenuItem.Name = "вставитьToolStripMenuItem";
-            this.вставитьToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.вставитьToolStripMenuItem.Size = new System.Drawing.Size(148, 22);
             this.вставитьToolStripMenuItem.Text = "Вставить";
             this.вставитьToolStripMenuItem.Click += new System.EventHandler(this.ВставитьToolStripMenuItem_Click);
             // 
@@ -298,33 +298,33 @@
             // цветФонаToolStripMenuItem1
             // 
             this.цветФонаToolStripMenuItem1.Name = "цветФонаToolStripMenuItem1";
-            this.цветФонаToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.цветФонаToolStripMenuItem1.Size = new System.Drawing.Size(148, 22);
             this.цветФонаToolStripMenuItem1.Text = "Цвет шрифта";
             this.цветФонаToolStripMenuItem1.Click += new System.EventHandler(this.ЦветФонаToolStripMenuItem1_Click);
             // 
             // цветФонаToolStripMenuItem2
             // 
             this.цветФонаToolStripMenuItem2.Name = "цветФонаToolStripMenuItem2";
-            this.цветФонаToolStripMenuItem2.Size = new System.Drawing.Size(180, 22);
+            this.цветФонаToolStripMenuItem2.Size = new System.Drawing.Size(148, 22);
             this.цветФонаToolStripMenuItem2.Text = "Цвет фона";
             this.цветФонаToolStripMenuItem2.Click += new System.EventHandler(this.ЦветФонаToolStripMenuItem2_Click);
             // 
             // шрифтToolStripMenuItem1
             // 
             this.шрифтToolStripMenuItem1.Name = "шрифтToolStripMenuItem1";
-            this.шрифтToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.шрифтToolStripMenuItem1.Size = new System.Drawing.Size(148, 22);
             this.шрифтToolStripMenuItem1.Text = "Шрифт";
             this.шрифтToolStripMenuItem1.Click += new System.EventHandler(this.ШрифтToolStripMenuItem1_Click);
             // 
             // textBox1
             // 
+            this.textBox1.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.textBox1.Location = new System.Drawing.Point(0, 69);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
+            this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Both;
             this.textBox1.Size = new System.Drawing.Size(800, 382);
             this.textBox1.TabIndex = 2;
-            this.textBox1.TextChanged += new System.EventHandler(this.TextBox1_TextChanged);
-            this.textBox1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.TextBox1_MouseDown);
             // 
             // Form1
             // 
@@ -336,6 +336,7 @@
             this.Controls.Add(this.menuStrip1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
