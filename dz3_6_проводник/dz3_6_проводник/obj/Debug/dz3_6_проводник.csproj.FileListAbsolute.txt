@@ -1,0 +1,10 @@
+C:\Users\group-bbv182\source\repos\dz3_6_проводник\dz3_6_проводник\bin\Debug\dz3_6_проводник.exe.config
+C:\Users\group-bbv182\source\repos\dz3_6_проводник\dz3_6_проводник\bin\Debug\dz3_6_проводник.exe
+C:\Users\group-bbv182\source\repos\dz3_6_проводник\dz3_6_проводник\bin\Debug\dz3_6_проводник.pdb
+C:\Users\group-bbv182\source\repos\dz3_6_проводник\dz3_6_проводник\obj\Debug\dz3_6_проводник.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\dz3_6_проводник\dz3_6_проводник\obj\Debug\dz3_6_проводник.Form1.resources
+C:\Users\group-bbv182\source\repos\dz3_6_проводник\dz3_6_проводник\obj\Debug\dz3_6_проводник.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\dz3_6_проводник\dz3_6_проводник\obj\Debug\dz3_6_проводник.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\dz3_6_проводник\dz3_6_проводник\obj\Debug\dz3_6_проводник.csproj.CoreCompileInputs.cache
+C:\Users\group-bbv182\source\repos\dz3_6_проводник\dz3_6_проводник\obj\Debug\dz3_6_проводник.exe
+C:\Users\group-bbv182\source\repos\dz3_6_проводник\dz3_6_проводник\obj\Debug\dz3_6_проводник.pdb
