@@ -16,6 +16,7 @@ namespace dz3_6_проводник
         public Form1()
         {
             InitializeComponent();
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -102,7 +103,6 @@ namespace dz3_6_проводник
                 if (Directory.Exists(listBoxSelectedItem))
                 {
                     DirectoryInfo[] drInfo = new DirectoryInfo(listBoxSelectedItem).GetDirectories();
-                    // FileSystemInfo[] files = (DirectoryInfo)listBox1.SelectedIndex;
                     if (drInfo.Count() > 0)
                     {
                         listBox1.Items.Clear();
@@ -131,5 +131,11 @@ namespace dz3_6_проводник
 
         }
 
+
+
+        private void СправкаToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Вы можете просматривать тут списки папок и файлов", "Это справка");
+        }
     }
 }
