@@ -1,0 +1,10 @@
+C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\bin\Debug\dz3_7_SubItem.exe.config
+C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\bin\Debug\dz3_7_SubItem.exe
+C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\bin\Debug\dz3_7_SubItem.pdb
+C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.csprojAssemblyReference.cache
+C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.Form1.resources
+C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.Properties.Resources.resources
+C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.csproj.GenerateResource.cache
+C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.exe
+C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.pdb
