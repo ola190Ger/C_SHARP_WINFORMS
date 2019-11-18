@@ -16,8 +16,6 @@ namespace dz3_7_SubItem
         public Form1()
         {
             InitializeComponent();
-            
-
         }
 
         private void TextBox1_MouseDown(object sender, MouseEventArgs e)
@@ -37,44 +35,39 @@ namespace dz3_7_SubItem
             if (textBox1.Text == "")
                 MessageBox.Show("Введите название пункта меню.", "Отсутствует имя");
             else
-            {
-                //ToolStripMenuItem fileItem = new ToolStripMenuItem(textBox1.Text);
-
-                //fileItem.DropDownItems.Add("Создать");
-                //fileItem.DropDownItems.Add(new ToolStripMenuItem("Сохранить"));
-
                 menuStrip1.Items.Add(new ToolStripMenuItem(textBox1.Text));
-
-
-                ToolStripMenuItem aboutItem = new ToolStripMenuItem("О программе");
-                menuStrip1.Items.Add(aboutItem);
-
-                MessageBox.Show($"{menuStrip1.Items[1]}", "About program");
-            }
         }
 
         private void Button2_Click(object sender, EventArgs e)
         {
-            if(textBox2.Text=="")
+            if(textBox2.Text=="")// проверка введено ли назв для нового подменю
                 MessageBox.Show("Введите название подпункта меню.", "Отсутствует имя");
             else
             {
-                //ToolStripMenuItem submenu = new ToolStripMenuItem(textBox2.Text);
 
-                if (menuStrip1.Items.Count == 0)
-                    MessageBox.Show(" Подменю не может быть добавлено. Введите имя меню и подменю");
+                if (menuStrip1.Items.Count == 0)// если меню не создано
+                    MessageBox.Show(" Подменю не может быть добавлено. Введите имя меню и только потом подменю");
                 else
-                    if (menuStrip1.Items.Count == 1)
+                    if (menuStrip1.Items.Count == 1)//если есть только 1н пункт меню
                     {
                     (menuStrip1.Items[0] as ToolStripMenuItem).DropDownItems.Add(textBox2.Text);
                     }
-                    
-
-                else
+                else //если пунктов меню несколько
                 {
-                    //(menuStrip1.Items[0] as ToolStripMenuItem).DropDownItems.Add(textBox2.Text);
-
-                    //укажи имя меню для подменю
+                    if (textBox1.Text == "")
+                    {
+                        MessageBox.Show("Введите название меню, в которое надо добавить подиеню.", "Куда добавлять?", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    else
+                    {
+                        foreach(ToolStripMenuItem menuItem in menuStrip1.Items)
+                        {
+                            if(menuItem.Text==textBox1.Text)
+                            {
+                                menuItem.DropDownItems.Add(textBox2.Text);
+                            }
+                        }
+                    }
                 }
 
             }

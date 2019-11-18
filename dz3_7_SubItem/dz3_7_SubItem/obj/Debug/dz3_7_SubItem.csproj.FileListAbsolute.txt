@@ -8,3 +8,12 @@ C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.c
 C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.exe
 C:\Users\Dell\Source\Repos\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.pdb
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_7_SubItem\dz3_7_SubItem\bin\Debug\dz3_7_SubItem.exe.config
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_7_SubItem\dz3_7_SubItem\bin\Debug\dz3_7_SubItem.exe
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_7_SubItem\dz3_7_SubItem\bin\Debug\dz3_7_SubItem.pdb
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.csprojAssemblyReference.cache
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.Form1.resources
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.Properties.Resources.resources
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.csproj.GenerateResource.cache
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.exe
+C:\Users\group-bbv182\Documents\Github\C_SHARP_WINFORMS\dz3_7_SubItem\dz3_7_SubItem\obj\Debug\dz3_7_SubItem.pdb
