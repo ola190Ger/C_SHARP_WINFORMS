@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz4_1_проводник_treeview", "dz4_1_проводник_treeview\dz4_1_проводник_treeview.csproj", "{E6510554-824B-4C9D-A479-788F6845DAB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6510554-824B-4C9D-A479-788F6845DAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6510554-824B-4C9D-A479-788F6845DAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6510554-824B-4C9D-A479-788F6845DAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6510554-824B-4C9D-A479-788F6845DAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B03EC58-E4D5-4B61-BB81-232F2B2D08C6}
+	EndGlobalSection
+EndGlobal

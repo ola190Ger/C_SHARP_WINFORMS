@@ -1,0 +1,9 @@
+C:\Users\group-bbv182\source\repos\dz4_1_проводник_treeview\dz4_1_проводник_treeview\bin\Debug\dz4_1_проводник_treeview.exe.config
+C:\Users\group-bbv182\source\repos\dz4_1_проводник_treeview\dz4_1_проводник_treeview\bin\Debug\dz4_1_проводник_treeview.exe
+C:\Users\group-bbv182\source\repos\dz4_1_проводник_treeview\dz4_1_проводник_treeview\bin\Debug\dz4_1_проводник_treeview.pdb
+C:\Users\group-bbv182\source\repos\dz4_1_проводник_treeview\dz4_1_проводник_treeview\obj\Debug\dz4_1_проводник_treeview.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\dz4_1_проводник_treeview\dz4_1_проводник_treeview\obj\Debug\dz4_1_проводник_treeview.Form1.resources
+C:\Users\group-bbv182\source\repos\dz4_1_проводник_treeview\dz4_1_проводник_treeview\obj\Debug\dz4_1_проводник_treeview.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\dz4_1_проводник_treeview\dz4_1_проводник_treeview\obj\Debug\dz4_1_проводник_treeview.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\dz4_1_проводник_treeview\dz4_1_проводник_treeview\obj\Debug\dz4_1_проводник_treeview.exe
+C:\Users\group-bbv182\source\repos\dz4_1_проводник_treeview\dz4_1_проводник_treeview\obj\Debug\dz4_1_проводник_treeview.pdb
