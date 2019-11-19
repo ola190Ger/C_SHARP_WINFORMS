@@ -13,10 +13,15 @@ namespace dz4_1_проводник_treeview
 {
     public partial class Form1 : Form
     {
+        
+        List<string> formats= new List<string> { ".jpg", ".jpeg", ".tiff", ".tif", ".gif", ".bmp", ".png", ".bat" };
         public Form1()
         {
             InitializeComponent();
             FillDriveNodes();//add all tom`s on this PC
+            listView1.View = View.LargeIcon;
+            listView1.LargeImageList = imageList1;
+            
         }
 
         private void FillDriveNodes()//get discs on pc
@@ -26,8 +31,11 @@ namespace dz4_1_проводник_treeview
                 foreach (DriveInfo drive in DriveInfo.GetDrives())
                 {
                     TreeNode driveNode = new TreeNode { Text = drive.Name };// create Node == disk
+                    ListViewItem viewItem = new ListViewItem { Text = drive.Name };
                     FillTreeNode(driveNode, drive.Name);//get child nodes for disk
                     treeView1.Nodes.Add(driveNode);// add node in treeview
+                    viewItem.ImageIndex = 0;// picture for disk
+                    listView1.Items.Add(viewItem);
                 }
             }
             catch (Exception e) { }
@@ -94,5 +102,6 @@ namespace dz4_1_проводник_treeview
             }
             catch(Exception ex) { }
         }
+
     }
 }
