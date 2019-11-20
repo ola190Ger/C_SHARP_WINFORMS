@@ -20,6 +20,9 @@ namespace dz4_1_проводник_treeview
             InitializeComponent();
             listView1.View = View.LargeIcon;
             listView1.LargeImageList = imageList1;
+            listView1.SmallImageList = imageList1;
+
+            //imageList1.ImageSize = new Size(32, 32);
             FillDriveNodes();//add all tom`s on this PC
 
         }
@@ -27,7 +30,7 @@ namespace dz4_1_проводник_treeview
         private void FillDriveNodes()//get discs on pc
         {
             listView1.Items.Clear();
-           // ClearImage();
+            ClearImage();
             try
             {
                 foreach (DriveInfo drive in DriveInfo.GetDrives())
@@ -43,31 +46,24 @@ namespace dz4_1_проводник_treeview
             catch (Exception e) { }
         }
 
-        private void FillTreeNode(TreeNode driveNode, string name)//name==path of disk, create and add child node
+        private void FillTreeNode(TreeNode driveNode, string name)//name==path of disk, create and add child node 
         {
             
             try
             {
                 string[] dirs = Directory.GetDirectories(name);
-               // string[] files = Directory.GetFiles(name);
-                
                 foreach (string dir in dirs)
                 {
-                    
                     TreeNode dirNode = new TreeNode();
-                    //ListViewItem viewItem = new ListViewItem() ;
-                    //AddFileInListView(dir, viewItem);
                     dirNode.Text = dir.Remove(0, dir.LastIndexOf("\\") + 1);// delete last / if his 2
                     driveNode.Nodes.Add(dirNode);
-                    //listView1.Items.Add(viewItem);
                 }
-                
             }
             catch (Exception e)
             { }
         }
 
-        private void AddFileInListView(string dirName,ListViewItem list)
+        private void AddFileInListView(string dirName,ListViewItem list)//add picFromfile in imagelist
         {
             string[] files = Directory.GetFiles(dirName);
             foreach(string file in files)
@@ -87,7 +83,6 @@ namespace dz4_1_проводник_treeview
                     {
                         list.ImageIndex = 2;
                         list.Text = Path.GetFileNameWithoutExtension(file);
-
                     }
                 }
                 else
@@ -99,7 +94,7 @@ namespace dz4_1_проводник_treeview
             }
         }
         
-        private void ClearImage()
+        private void ClearImage()//delete added pic, pic[0-2] dont touch
         {
             while (imageList1.Images.Count > 3) imageList1.Images.RemoveAt(imageList1.Images.Count - 1);
         }
@@ -107,7 +102,7 @@ namespace dz4_1_проводник_treeview
         {
             e.Node.Nodes.Clear();
             listView1.Items.Clear();
-            //ClearImage();
+            ClearImage();
             string[] dirs;
             try
             {
@@ -126,6 +121,25 @@ namespace dz4_1_проводник_treeview
                             viewItem.ImageIndex = 1;
                             listView1.Items.Add(viewItem);
                         }
+                    }
+                    string[] files = Directory.GetFiles(e.Node.FullPath);
+                    foreach (string file in files)// add file in this dir
+                    {
+                        ListViewItem list = new ListViewItem();
+                        string ext = Path.GetExtension(file);
+                        if (formats.Contains(ext))
+                        {
+                            Image img = Image.FromFile(file);
+                            imageList1.Images.Add(img);
+                            list.ImageIndex = imageList1.Images.Count - 1;
+                            list.Text = Path.GetFileNameWithoutExtension(file);
+                        }
+                        else
+                        {
+                            list.ImageIndex = 2;
+                            list.Text = Path.GetFileNameWithoutExtension(file);
+                        }
+                        listView1.Items.Add(list);
                     }
                 }
             }
@@ -155,6 +169,26 @@ namespace dz4_1_проводник_treeview
                             listView1.Items.Add(viewItem);
                         }
                     }
+                    string[] files = Directory.GetFiles(e.Node.FullPath);
+                    foreach (string file in files)// add file in this dir
+                    {
+                        ListViewItem list = new ListViewItem();
+                        string ext = Path.GetExtension(file);
+                        if (formats.Contains(ext))
+                        {
+                            Image img = Image.FromFile(file);
+                            imageList1.Images.Add(img);
+                            list.ImageIndex = imageList1.Images.Count - 1;
+                            list.Text = Path.GetFileNameWithoutExtension(file);
+                        }
+                        else
+                        {
+                            list.ImageIndex = 2;
+                            list.Text = Path.GetFileNameWithoutExtension(file);
+                        }
+                        listView1.Items.Add(list);
+                    }
+
                 }
             }
             catch(Exception ex) { }
@@ -164,6 +198,18 @@ namespace dz4_1_проводник_treeview
         {
             
             this.ActiveControl = menuStrip1;
+        }
+
+        private void БольшиеЗначкиToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            foreach (ListViewItem img in imageList1.Images)
+                imageList1.ImageSize = new Size(96, 96);
+
+            // ImageList tmp = new ImageList();
+            // tmp = imageList1;
+
+            // imageList1.Images.Clear();
+            // imageList1 = tmp;
         }
     }
 }

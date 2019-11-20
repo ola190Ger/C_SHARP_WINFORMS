@@ -96,31 +96,32 @@
             // большиеЗначкиToolStripMenuItem
             // 
             this.большиеЗначкиToolStripMenuItem.Name = "большиеЗначкиToolStripMenuItem";
-            this.большиеЗначкиToolStripMenuItem.Size = new System.Drawing.Size(177, 22);
+            this.большиеЗначкиToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.большиеЗначкиToolStripMenuItem.Text = "Большие значки ";
+            this.большиеЗначкиToolStripMenuItem.Click += new System.EventHandler(this.БольшиеЗначкиToolStripMenuItem_Click);
             // 
             // маленькиеЗначкиToolStripMenuItem
             // 
             this.маленькиеЗначкиToolStripMenuItem.Name = "маленькиеЗначкиToolStripMenuItem";
-            this.маленькиеЗначкиToolStripMenuItem.Size = new System.Drawing.Size(177, 22);
+            this.маленькиеЗначкиToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.маленькиеЗначкиToolStripMenuItem.Text = "Средние значки";
             // 
             // плиткаToolStripMenuItem
             // 
             this.плиткаToolStripMenuItem.Name = "плиткаToolStripMenuItem";
-            this.плиткаToolStripMenuItem.Size = new System.Drawing.Size(177, 22);
+            this.плиткаToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.плиткаToolStripMenuItem.Text = "Маленькие значки";
             // 
             // списокToolStripMenuItem
             // 
             this.списокToolStripMenuItem.Name = "списокToolStripMenuItem";
-            this.списокToolStripMenuItem.Size = new System.Drawing.Size(177, 22);
+            this.списокToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.списокToolStripMenuItem.Text = "Плитка";
             // 
             // списокToolStripMenuItem1
             // 
             this.списокToolStripMenuItem1.Name = "списокToolStripMenuItem1";
-            this.списокToolStripMenuItem1.Size = new System.Drawing.Size(177, 22);
+            this.списокToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.списокToolStripMenuItem1.Text = "Список";
             // 
             // редакторToolStripMenuItem
