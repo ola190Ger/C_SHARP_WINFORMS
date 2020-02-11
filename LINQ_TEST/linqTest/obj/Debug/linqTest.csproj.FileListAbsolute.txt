@@ -1,0 +1,6 @@
+C:\Users\Dell\Source\Repos\linqTest\linqTest\bin\Debug\linqTest.exe.config
+C:\Users\Dell\Source\Repos\linqTest\linqTest\bin\Debug\linqTest.exe
+C:\Users\Dell\Source\Repos\linqTest\linqTest\bin\Debug\linqTest.pdb
+C:\Users\Dell\Source\Repos\linqTest\linqTest\obj\Debug\linqTest.csprojAssemblyReference.cache
+C:\Users\Dell\Source\Repos\linqTest\linqTest\obj\Debug\linqTest.exe
+C:\Users\Dell\Source\Repos\linqTest\linqTest\obj\Debug\linqTest.pdb
