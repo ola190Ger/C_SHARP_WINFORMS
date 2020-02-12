@@ -15,9 +15,9 @@ namespace linqTest
         public int age { set; get; }
         public string mail { set; get; }
         public string phone { set; get; }
-
+        public int facultyNumber { set; get; }
         public int groupId { set; get; }
-
+        public List<int> mark { set; get; }
 
     }
 }
