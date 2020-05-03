@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\bin\Debug\ColorsPalette.exe.config
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\bin\Debug\ColorsPalette.exe
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\bin\Debug\ColorsPalette.pdb
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\obj\Debug\ColorsPalette.csprojAssemblyReference.cache
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\obj\Debug\App.g.cs
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\obj\Debug\ColorsPalette_MarkupCompile.cache
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\obj\Debug\ColorsPalette_MarkupCompile.lref
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\obj\Debug\MainWindow.baml
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\obj\Debug\ColorsPalette.g.resources
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\obj\Debug\ColorsPalette.Properties.Resources.resources
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\obj\Debug\ColorsPalette.csproj.GenerateResource.cache
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\obj\Debug\ColorsPalette.exe
+C:\Users\Dell\Source\Repos\ColorsPalette\ColorsPalette\obj\Debug\ColorsPalette.pdb
